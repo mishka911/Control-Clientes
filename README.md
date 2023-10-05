@@ -77,6 +77,6 @@ Luego colocamos Run y esperamos a que el servidor se levante y lo corra en el bu
 
 ---
 
-![Control Clientes](https://github.com/mishka911/Control-Clientes/tree/main/img/control-clientes.jpeg)
+![Control Clientes](https://github.com/mishka911/Control-Clientes/blob/main/img/control-clientes.png)
 
 Una imagen de como se veria el mini proyecto.
